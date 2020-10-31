@@ -1,12 +1,22 @@
+body {
+    background-color: #efeee7;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333333;
+}
+
 h1 {
-    text-align: center;
-    background-color: lightblue;
-    color: blueviolet;
-    border-bottom: 5px;
-    border-style: dashed;
+    color: #eee;
+    font-size: 28px;
+
 }
 
 h2 {
-    background-color: lavender;
-    color: blueviolet;
+    font-size: 24px;
+    margin: 0 auto;
 }
