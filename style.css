@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    background-color: lightblue;
+    color: blueviolet;
+    border-bottom: 5px;
+    border-style: dashed;
+}
+
+h2 {
+    background-color: lavender;
+    color: blueviolet;
+}
